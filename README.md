@@ -1,3 +1,3 @@
 # GAN-Generative-Adversarial-Network
 
-## Coming soon - Theory and Practical Both
+## Coming soon - Theory with Three Projects
